@@ -1,6 +1,7 @@
 # ChatX - Real-Time Chat Application
 
-![ChatX Logo](path_to_logo.png)
+![pic1](pic1.jpg)
+![pic2](pic2.jpg)
 
 ChatX is a modern, real-time chat application built with React and Firebase. It offers a seamless messaging experience with features like user authentication, real-time messaging, and profile customization.
 
